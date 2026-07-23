@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Portfolio,Markets,Leaderboard,Swap,Points,Trading",
   "VITE_CUSTOM_MENUS": "Tetreum DApp, https://dapp.tetreum.com/; Cross Chain Bridge, https://bridge.tetreum.com/; Join Presale, https://dapp.tetreum.com/register",
-  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/tetreum",
   "VITE_DISCORD_URL": "",
